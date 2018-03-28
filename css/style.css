@@ -1,0 +1,46 @@
+.raleway {
+    font-family: 'Raleway', sans-serif
+}
+.roboto {
+    font-family: 'Roboto', sans-serif
+}
+
+.margin-contrainer {
+    margin-top: 20%;
+    transition: all ease 0.5s;
+}
+
+.margin-contrainer-result {
+    margin-top: 5% !important;
+    transition: all ease 0.5s;
+}
+i {
+    font-size: 2.92rem !important;
+}
+
+#search {
+    border-radius: 50px;
+    width: 70%;
+    text-align: center;
+    margin: 0 15%;
+    font-size: 32px !important;
+    letter-spacing: 2px;
+    border: none !important;
+}
+
+.colorchange:hover{
+    color: #ef9a9a !important;
+}
+
+.result {
+    color: #263238;
+    padding: 5px 20px;
+    margin-top: 50px;
+    border-left: 5px solid #607d8b !important;
+    transition: all 0.2s linear;
+}
+
+.result:hover {
+    border-left: 20px solid #607d8b !important;
+    transition: all 0.2s linear;
+}
